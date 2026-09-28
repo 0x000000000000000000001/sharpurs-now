@@ -37,6 +37,8 @@ workspace:
       path: "../sharpurs-backend-optimizer"
     console:
       path: "../sharpurs-console"
+    control:
+      path: "../sharpurs-control"
     datetime:
       path: "../sharpurs-datetime"
     effect:
